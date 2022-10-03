@@ -1,0 +1,4 @@
+tkinter – 8.6.12 
+os module
+Python 3.9.7
+Pycharm
